@@ -1,5 +1,5 @@
 【アプリの説明】</br>
-Youtubeのuta_water@プログラミング様の動画を参考に電卓アプリを作成しました。</br>
+Youtubeのuta_water@プログラミング様の動画を参考にAndroid studioを使用し電卓アプリを作成しました。</br>
 動画はPart4( https://youtu.be/QmziyoPizIU )までだったため、続きは自力で仕上げました。</br>
 
 【アプリの動作】</br>
